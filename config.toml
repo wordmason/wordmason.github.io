@@ -1,0 +1,45 @@
+baseURL = ""
+languageCode = "en"
+title = "Your Most Trusted Writing Tutors"
+theme = "hugo-initio"
+
+[params]
+    name = "Your Most Trusted Writing Tutors"
+    description = "For College and Graduate School Application Essays"
+    email = "chl3565@g.harvard.edu"
+    phone = ""
+    address = ""
+    year = "2022"
+    avatar = ""
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Alex"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = false
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[params.disqus]
+    site = ""
+
+[params.sharethis]
+    property = ""
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
