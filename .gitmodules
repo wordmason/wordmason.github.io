@@ -1,0 +1,6 @@
+[submodule "hugo-initio"]
+	path = hugo-initio
+	url = https://github.com/wordmason/hugo-initio.git
+[submodule "themes/hugo-initio"]
+	path = themes/hugo-initio
+	url = https://github.com/wordmason/hugo-initio.git
