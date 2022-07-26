@@ -43,3 +43,7 @@ theme = "hugo-initio"
 
 [params.google.analytics]
     trackerID = "GA-000000000-0"
+
+[markup.goldmark.renderer]
+     unsafe = true
+
