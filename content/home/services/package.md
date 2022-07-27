@@ -3,11 +3,11 @@ title = "Package Work"
 weight = 1
 +++
 
-<!-- Basic package: $80,000NTD
-* 3 essays: Common App/Coalition For College App + 2 essays for either one or two universities of the student’s choice; it all depends on the number of essays that the university to which a student wishes to apply requires.  -->
-
 
 <!--more-->
+
+Basic package: $80,000NTD
+* 3 essays: Common App/Coalition For College App + 2 essays for either one or two universities of the student’s choice; it all depends on the number of essays that the university to which a student wishes to apply requires. 
 
 **The definition of an essay:** 500-1,000 words (Both Common and Coalition Apps advise an applicant to submit an essay of between 550-650 words)
 

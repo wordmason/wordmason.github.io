@@ -1,14 +1,7 @@
 +++
 title = "Tutors’ Credentials"
-weight = 4
+weight = 3
 +++
-
-<!-- C.L. Alexander Lee
-Harvard University
-Master of Liberal Arts (ALM), English, March 2023
-
-Thomas Leonard-Roy
-PhD, English, May 2022 -->
 
 <!--more-->
 
