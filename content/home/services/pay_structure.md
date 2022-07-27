@@ -1,6 +1,6 @@
 +++
 title = "Pay as You Go Fee Structure"
-weight = 4
+weight = 3
 +++
 
 <!--more-->
