@@ -3,9 +3,9 @@ title = "Online one-on-one tutorial"
 weight = 2
 +++
 
-This package includes a total of 10 hours of face-to-face tutorial sessions. Normally, each session is 1 hour long. In situations where the student has extended Q&A needs, we can extend the duration of a regular session.
+<!-- This package includes a total of 10 hours of face-to-face tutorial sessions. Normally, each session is 1 hour long. In situations where the student has extended Q&A needs, we can extend the duration of a regular session.
 
-When exceeding the limit of 10 hours, each additional hour of conferencing will entail $3,000NTD
+When exceeding the limit of 10 hours, each additional hour of conferencing will entail $3,000NTD -->
 
 <!--more-->
 
