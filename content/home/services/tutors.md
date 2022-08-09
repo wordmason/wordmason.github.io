@@ -16,7 +16,7 @@ Concordia University
 BA, Political Science, Minor in History
 Mr. Lee has over 13 years of teaching experience in the EFL context. He has helped numerous students to matriculate at highly competitive universities over the years, including Cornell University, MIT, Stanford, the University of Michigan, and many other distinguished universities in English-speaking countries.
 
-Email: uwtwriter@gmail.com
+Email: alexander@uwtwriting.com
 
 **Thomas Leonard-Roy**
 
