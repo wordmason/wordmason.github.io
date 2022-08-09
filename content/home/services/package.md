@@ -6,7 +6,7 @@ weight = 1
 
 <!--more-->
 
-Basic package: $80,000NTD
+Basic package: $85,000NTD
 * 3 essays: Common App/Coalition For College App + 2 essays for either one or two universities of the student’s choice; it all depends on the number of essays that the university to which a student wishes to apply requires. 
 
 **The definition of an essay:** 500-1,000 words (Both Common and Coalition Apps advise an applicant to submit an essay of between 550-650 words)
@@ -17,9 +17,9 @@ When applying to universities like the University of Chicago or Yale where each 
 
 **Additional essays:**
 
-The charge for any additional essay is set at a flat rate of $25,000 NTD as long as the word count falls within the 1,000 words limit. 
+The charge for any additional essay is set at a flat rate of $30,000 NTD as long as the word count falls within the 1,000 words limit.
 
 **Reworking on an existing essay for applying for a different university that requires similar essay prompts:**
 
-There are situations where different universities might ask similar essay questions. The student is more than welcome to either submit an existing one that has received my editorial assistance. If the student wishes to make changes to an existing essay, I will charge only the editing fees, which are $3,000NTD / hr.
+There are situations where different universities might ask similar essay questions. The student is more than welcome to either submit an existing one that has received my editorial assistance. If the student wishes to make changes to an existing essay, I will charge only the editing fees, which are $4,000NTD / hr.
 
