@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.uwtwriting.com/"
 languageCode = "en"
 title = "Your Most Trusted Writing Tutors"
 theme = "hugo-initio"
