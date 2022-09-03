@@ -1,5 +1,5 @@
 +++
-title = "Pay as You Go Fee Structure"
+title = "Fee Structure"
 weight = 2
 +++
 

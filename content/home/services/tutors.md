@@ -1,5 +1,5 @@
 +++
-title = "Tutors’ Credentials"
+title = "Credentials"
 weight = 3
 +++
 
