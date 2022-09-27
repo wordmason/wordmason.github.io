@@ -28,5 +28,4 @@ The student must complete all three essays included in this basic package within
 
 **Reworking on an existing essay for applying for a different university that requires similar essay prompts:**
 
-There are situations where different universities might ask similar essay questions. The student is more than welcome to either submit an existing one that has received my editorial assistance. If the student wishes to make changes to an existing essay, I will charge only the editing fees, which are $4,000NTD / hr.
-
+There are situations where different universities might ask similar essay questions. The student is more than welcome to either submit an existing one that has received our editorial assistance. If the student wishes to make changes to an existing essay, a standard editing fees of $4,000NTD / hr will be applied.
