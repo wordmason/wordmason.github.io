@@ -24,7 +24,7 @@ theme = "hugo-initio"
     showDownloads = false
     showClients = false
 
-    showFooterContact = true
+    showFooterContact = false
     showFooterFollowMe = false
     showFooterTextWidget = false
     showFooterFormWidget = false
