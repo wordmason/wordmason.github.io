@@ -5,7 +5,7 @@ weight = 3
 
 <!--more-->
 
-<img style="float: left; width: 350px; height: 320px; object-fit: cover; margin-right: 1em; margin-bottom: 1em;" src="/avatars/Alex.jpg">
+<img style="float: left; width: 300px; height: 300px; object-fit: cover; margin-right: 1em; margin-bottom: 1em; padding: 1em;" src="/avatars/Alex.jpg">
 
 **C.L. Alexander Lee**\
 Harvard University\
@@ -13,12 +13,13 @@ Master of Liberal Arts (ALM), English, March 2023
 
 Concordia University
 09 / 2001 - 06 /2006
-BA, Political Science, Minor in History\
+BA, Political Science Minor in History
+
 Mr. Lee has over 13 years of teaching experience in the EFL context. He has helped numerous students to matriculate at highly competitive universities over the years, including Cornell University, MIT, Stanford, the University of Michigan, and many other distinguished universities in English-speaking countries.
 
 <!-- Email: alexander@uwtwriting.com -->
 
-<img style="float: left; width: 350px; height: 300px; object-fit: cover; margin-right: 1em; margin-bottom: 1em;" src="/avatars/Thomas.png">
+<img style="float: left; width: 300px; height: 300px; object-fit: cover; margin-right: 1em; margin-bottom: 1em; padding: 1em;" src="/avatars/Thomas.png">
 
 **Thomas Leonard-Roy**\
 Harvard University\
