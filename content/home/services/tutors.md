@@ -20,7 +20,7 @@ Mr. Lee has over 13 years of teaching experience in the EFL context. He has help
 
 <img style="float: left; width: 300px; height: 300px; object-fit: cover; margin-right: 1em; margin-bottom: 1em; padding: 1em;" src="/avatars/Thomas.png">
 
-**Dr. Leonard-Roy**\
+**Dr. Thomas Leonard-Roy**\
 Harvard University\
 PhD, English
 	

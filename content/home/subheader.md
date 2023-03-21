@@ -5,9 +5,9 @@ title = ""
 
 ### *Writing a good essay is your first step to success*
 
-We provide you with In-line editing \
+We provide you with in-line editing \
 Help you with writing engaging prose and elevating your creative output \
-One written report per essay that will help you make a significant improvement on your work \
+One detailed written report per essay that will help you make significant improvements on your work \
 There is **No** binding contract
 
 Pay as you go
